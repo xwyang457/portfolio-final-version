@@ -242,7 +242,7 @@ figure img {
 }
 
 figure img:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 /* Gallery Images Set Section */
@@ -265,7 +265,7 @@ figure img:hover {
 }
 
 .gallery img:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 
